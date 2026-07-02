@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Extract"
+  short_description: "Extract X or Twitter post videos to MP4"
+  default_prompt: "Use $video-extract to download the video from this X post into an MP4 file."
